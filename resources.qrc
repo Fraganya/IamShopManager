@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/files/images">
+        <file>IAM_2.png</file>
+        <file>icon.png</file>
+        <file>icons/add user.ico</file>
+        <file>icons/logout.ico</file>
+        <file>icons/products.png</file>
+        <file>icons/purchases.ico</file>
+        <file>icons/refresh.ico</file>
+        <file>icons/sales.ico</file>
+        <file>icons/search.ico</file>
+        <file>icons/stock.ico</file>
+        <file>icons/stock1.ico</file>
+        <file>icons/users.ico</file>
+        <file>icons/my account.ico</file>
+        <file>icons/products.ico</file>
+    </qresource>
+</RCC>
